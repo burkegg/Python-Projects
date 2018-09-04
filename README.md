@@ -1,7 +1,4 @@
-# python_old
-Old coursework
-
-Here are some projects from online courses I have taken in the past.
+Here are some python projects.  These use an online compiler called codesculptor.  To run the files, you can click the links at the top each.
 
 Highlights include:
 
