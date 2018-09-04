@@ -1,5 +1,5 @@
 """
-My clone of 2048 game.
+My clone of 2048 game.  To play, visit:
 http://www.codeskulptor.org/#user43_8mjXJOeGxv_28.py
 """
 
