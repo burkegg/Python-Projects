@@ -1,7 +1,7 @@
 """
 Monte Carlo Tic-Tac-Toe Player
 A project from a class that I took.
-It sort of works.
+It uses Monte Carlo Methods to play against you.
 Run here:
 http://www.codeskulptor.org/#user43_yFJi0DQfZg_36.py
 
