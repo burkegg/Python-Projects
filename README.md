@@ -1,4 +1,4 @@
-Here are some python projects.  These use an online compiler called codesculptor.  To run the files, you can click the links at the top each.
+Here are some python projects.  These use an online compiler called codesculptor.  To run the files, you can click the links at the top of each.
 
 Highlights include:
 
